@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <h2>
+    GitHubCard
+  </h2>
+  <div
+    className="card"
+  >
+    <div
+      className="card"
+    >
+      <img
+        className="card-img-top"
+        src="miyamura.jpg"
+        style={
+          Object {
+            "width": "18rem",
+          }
+        }
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Esteban Barroso
+        </div>
+        <p
+          className="card-text"
+        >
+           23 year old getting into the world of software development.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
